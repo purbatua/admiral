@@ -1,0 +1,2 @@
+### webhook/twitter - crc
+GET http://localhost:1337/api/twitter HTTP/1.1
